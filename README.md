@@ -59,13 +59,10 @@ DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 DATABASE_URL=sqlite:///database.db
 Botu başlatın:
 
-bash
-Kodu kopyala
-python bot.py
+
 Örnek Python/Discord Bot Kodları:
 
-python
-Kodu kopyala\
+##bot.py
 ```bash
 import discord
 from discord.ext import commands
