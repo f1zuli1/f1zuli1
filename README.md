@@ -65,7 +65,8 @@ python bot.py
 Örnek Python/Discord Bot Kodları:
 
 python
-Kodu kopyala
+Kodu kopyala\
+```bash
 import discord
 from discord.ext import commands
 import sqlite3
@@ -96,3 +97,4 @@ async def ekle(ctx, username):
     await ctx.send(f"✅ {username} başarıyla eklendi!")
 
 bot.run(os.getenv('DISCORD_TOKEN'))
+```
