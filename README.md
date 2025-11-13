@@ -62,7 +62,7 @@ Botu başlatın:
 
 Örnek Python/Discord Bot Kodları:
 
-##bot.py
+## bot.py
 ```bash
 import discord
 from discord.ext import commands
