@@ -36,9 +36,9 @@ header {
   text-align: center;
   padding: 20px;
 }
+```
 2️⃣ DB-BOT English 0.1 (Discord Bot)
 GitHub Repo
-https://github.com/f1zuli1/DB-BOT-English-0.1
 
 🛠 Teknolojiler: Python | SQL | Discord.py
 🤖 Discord üzerinden İngilizce öğrenmeyi destekleyen bot
