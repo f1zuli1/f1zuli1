@@ -37,8 +37,9 @@ header {
   padding: 20px;
 }
 ```
-2️⃣ DB-BOT English 0.1 (Discord Bot)
-GitHub Repo
+### 2️⃣ DB-BOT English 0.1 (Discord Bot)
+**[GitHub Repo](https://github.com/f1zuli1/DB-BOT-English-0.1)**  
+
 
 🛠 Teknolojiler: Python | SQL | Discord.py
 🤖 Discord üzerinden İngilizce öğrenmeyi destekleyen bot
@@ -46,14 +47,12 @@ GitHub Repo
 
 Kurulum:
 
-bash
 Kodu kopyala
 git clone https://github.com/f1zuli1/DB-BOT-English-0.1.git
 cd DB-BOT-English-0.1
 pip install -r requirements.txt
 .env dosyası oluşturun ve bilgileri girin:
 
-ini
 Kodu kopyala
 DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 DATABASE_URL=sqlite:///database.db
