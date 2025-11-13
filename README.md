@@ -7,7 +7,7 @@ Hem web tasarımı hem de Discord bot geliştirme çalışmaları burada bir ara
 
 ## 🚀 Projeler
 
-### 1️⃣ Mezuniyet Projesi (Web)
+## 1️⃣ Mezuniyet Projesi (Web)
 **[GitHub Repo](https://github.com/f1zuli1/mezuniyet-projesi)**  
 
 🛠 **Teknolojiler:** `HTML` | `CSS` | `JavaScript`  
@@ -37,7 +37,7 @@ header {
   padding: 20px;
 }
 ```
-### 2️⃣ DB-BOT English 0.1 (Discord Bot)
+## 2️⃣ DB-BOT English 0.1 (Discord Bot)
 **[GitHub Repo](https://github.com/f1zuli1/DB-BOT-English-0.1)**  
 
 
