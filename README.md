@@ -1,13 +1,13 @@
-# 👋 Merhaba! Ben [F1zuli1]
+# 👋 Salam! Mən [F1zuli1]
 
-Ben **Python**, **HTML/CSS**, **SQL** ve **Discord botları** ile projeler geliştiren bir yazılımcıyım.  
-Bu portfolio README, yeteneklerimi, projelerimi ve iletişim bilgilerimi gösterir.
+Mən **Python**, **HTML/CSS**, **SQL** və **Discord botları** ilə layihələr hazırlayan bir proqramçıyam.  
+Bu portfolio README faylı mənim bacarıqlarımı, layihələrimi və əlaqə məlumatlarımı əks etdirir.
 
 ---
 
-## 💻 Yeteneklerim
+## 💻 Bacarıqlarım
 
-### Programlama Dilleri ve Teknolojiler
+### Proqramlaşdırma Dilləri və Texnologiyalar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,30 +16,27 @@ Bu portfolio README, yeteneklerimi, projelerimi ve iletişim bilgilerimi göster
 
 ---
 
-## 📂 Projelerim
+## 📂 Layihələrim
 
-### 1️⃣ Mezuniyet Projesi (Web)
-**[Repo Linki](https://github.com/f1zuli1/mezuniyet-projesi)**  
+### 1️⃣ Məzuniyyət Layihəsi (Veb)
+**[Repo Linki](https://github.com/f1zuli1/mezuniyet-projesi)** - **Texnologiyalar:** HTML, CSS, JavaScript  
+- Müasir və responsive (mobil uyğunluqlu) veb sayt.  
+- Tələbələrin öz layihələrini nümayiş etdirə biləcəyi bir platforma.
 
-- **Teknolojiler:** HTML, CSS, JavaScript  
-- Modern ve responsive web sitesi.  
-- Öğrencilerin projelerini görüntüleyebileceği bir platform.
-
-### 2️⃣ DB-BOT English 0.1 (Discord Bot)
-**[Repo Linki](https://github.com/f1zuli1/DB-BOT-English-0.1)**  
-
-- **Teknolojiler:** Python, SQL, Discord.py  
-- Discord üzerinden İngilizce öğrenmeyi destekleyen bir bot.  
-- Veriler SQL veritabanında saklanır ve komutlarla yönetilir.
+### 2️⃣ DB-BOT English 0.1 (Discord Botu)
+**[Repo Linki](https://github.com/f1zuli1/DB-BOT-English-0.1)** - **Texnologiyalar:** Python, SQL, Discord.py  
+- Discord vasitəsilə ingilis dili öyrənməyi dəstəkləyən bir bot.  
+- Məlumatlar SQL verilənlər bazasında saxlanılır və əmrlərlə idarə olunur.
 
 ---
 
-## 🌐 İletişim
+## 🌐 Əlaqə
 
 - GitHub: [https://github.com/f1zuli1](https://github.com/f1zuli1)  
+
 ---
 
-## 🎯 Hakkımda
+## 🎯 Haqqımda
 
-- Programlamayı öğrenmeye hevesli ve yeni teknolojileri denemeyi seven biriyim.  
-- Takım çalışmasına açık ve yaratıcı yaklaşımla problemleri çözmeyi seviyorum.
+- Proqramlaşdırmanı öyrənməyə həvəsli və yeni texnologiyaları sınaqdan keçirməyi sevən biriyəm.  
+- Komanda işinə açığam və problemləri yaradıcı yanaşma ilə həll etməyi sevirəm.
