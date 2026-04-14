@@ -18,8 +18,8 @@ Bu portfolio README faylı mənim bacarıqlarımı, layihələrimi və əlaqə m
 
 ## 📂 Layihələrim
 
-### 1️⃣ Məzuniyyət Layihəsi (Veb)
-**[Repo Linki](https://github.com/f1zuli1/mezuniyet-projesi)** - **Texnologiyalar:** HTML, CSS, JavaScript  
+### 1️⃣ Shop Sayti (Veb)
+**[Repo Linki](https://github.com/f1zuli1/DonkeyDoner)** - **Texnologiyalar:** HTML, CSS, JavaScript  
 - Müasir və responsive (mobil uyğunluqlu) veb sayt.  
 - Tələbələrin öz layihələrini nümayiş etdirə biləcəyi bir platforma.
 
