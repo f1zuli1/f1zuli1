@@ -44,9 +44,9 @@ Məqsədim real layihələr quraraq full-stack developer olmaqdır.
 
 ## 📊 GitHub Statistikası
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1zuli1&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=f1zuli1&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1zuli1&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=f1zuli1&layout=compact&theme=tokyonight)
 
 ---
 
